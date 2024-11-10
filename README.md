@@ -6,7 +6,7 @@ Sentiment Analysis on Amazon Reviews involves using NLP to classify customer rev
 HOW TO RUN
 Step 1: Clone the repository
 
-git clone https://github.com/Surbhit01/Amazon-Alexa-Reviews.git
+git clone https://github.com/Kavitha2642/Sentiment-Analysis-on-Amazon-Reviews.git
 Step 2: Open the cloned repository and create a conda environment. Activate the new environment
 
 conda create -n amazonreview python=3.10
